@@ -12,14 +12,15 @@
   },
   "all": false,
   "group": "genre",
-  "regionalize": false,
+  "regionalize": true,
   "excludeGroups": false,
   "excludeChannels": false,
   "uniqueClientid": false,
-  "randomClientid": false,
-  "refresh": 0,
+  "randomClientid": true,
+  "refresh": 3600,
   "xTvgUrl": false,
   "ondemand": false,
-  "vlcopts": false,
+  "vlcopts": true,
   "pipeopts": false
 }
+
